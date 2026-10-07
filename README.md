@@ -11,7 +11,7 @@
 把下面这段话原样发给你的 AI：
 
 ```
-帮我安装这个 AI 技能：https://github.com/nibaba001/howtolivebetter-guide 。把仓库下载下来，整个文件夹命名为 howtolivebetter-guide，放进你的技能目录（WorkBuddy 是 ~/.workbuddy/skills/，Codex 是 ~/.agents/skills/，Claude Code 是 ~/.claude/skills/），装好后告诉我怎么用。
+帮我安装这个 AI 技能：https://github.com/nibaba001/shengnian-life-guide 。把仓库下载下来，整个文件夹命名为 howtolivebetter-guide，放进你的技能目录（WorkBuddy 是 ~/.workbuddy/skills/，Codex 是 ~/.agents/skills/，Claude Code 是 ~/.claude/skills/），装好后告诉我怎么用。
 ```
 
 AI 执行下载和复制命令前会请你确认，同意即可。装完没生效的话，重启一下 WorkBuddy / Codex。
@@ -19,7 +19,7 @@ AI 执行下载和复制命令前会请你确认，同意即可。装完没生�
 ### 方法二：一条命令（Codex、Claude Code、Cursor 等）
 
 ```bash
-npx skills add nibaba001/howtolivebetter-guide
+npx skills add nibaba001/shengnian-life-guide
 ```
 
 按提示选择要装到哪个工具。这个命令目前不支持 WorkBuddy，WorkBuddy 请用方法一或方法三。
